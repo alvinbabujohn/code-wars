@@ -1,0 +1,1 @@
+Just a collection of Code Wars answers I've either submitted or am working on.
