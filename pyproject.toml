@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "code-wars"
+version = "0.1.0"
+description = ""
+authors = ["Alvin John <38516261+alvinbabujohn@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+black = "^21.6b0"
+pylint = "^2.8.3"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
